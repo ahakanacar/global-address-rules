@@ -1,0 +1,6695 @@
+{
+  "AFG": {
+    "country_name": "Afghanistan",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "ALA": {
+    "country_name": "Åland Islands",
+    "postal_code_regex": "^(?:\\d{5}|AX\\-\\d{5})$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "ALB": {
+    "country_name": "Albania",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "DZA": {
+    "country_name": "Algeria",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "ASM": {
+    "country_name": "American Samoa",
+    "postal_code_regex": "^(?:\\d{5}|\\d{5}\\-\\d{4})$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "AND": {
+    "country_name": "Andorra",
+    "postal_code_regex": "^AD\\d{3}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "AGO": {
+    "country_name": "Angola",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "AIA": {
+    "country_name": "Anguilla",
+    "postal_code_regex": "^[A-Z]I\\-2640$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "ATA": {
+    "country_name": "Antarctica",
+    "postal_code_regex": "^BIQQ\\ 1ZZ$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "ATG": {
+    "country_name": "Antigua and Barbuda",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "ARG": {
+    "country_name": "Argentina",
+    "postal_code_regex": "^(?:\\d{4}|[A-Z]\\d{4}|[A-Z]\\d{4}[A-Z][A-Z][A-Z])$",
+    "address_format_mask": "%S %N %I\\n%Z %C",
+    "keywords": {
+      "street": [
+        "calle",
+        "rúa",
+        "acera",
+        "facera"
+      ],
+      "neighborhood": [],
+      "unit": [
+        "apartamento",
+        "departamento",
+        "piso",
+        "vivienda",
+        "depa"
+      ]
+    }
+  },
+  "ARM": {
+    "country_name": "Armenia",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "ABW": {
+    "country_name": "Aruba",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "AUS": {
+    "country_name": "Australia",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%C %P %Z",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "AUT": {
+    "country_name": "Austria",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "AZE": {
+    "country_name": "Azerbaijan",
+    "postal_code_regex": "^AZ\\ \\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "BHS": {
+    "country_name": "Bahamas",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "BHR": {
+    "country_name": "Bahrain",
+    "postal_code_regex": "^(?:\\d{3}|\\d{4})$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "BGD": {
+    "country_name": "Bangladesh",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "BRB": {
+    "country_name": "Barbados",
+    "postal_code_regex": "^BB\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "BLR": {
+    "country_name": "Belarus",
+    "postal_code_regex": "^\\d{6}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "BEL": {
+    "country_name": "Belgium",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "BLZ": {
+    "country_name": "Belize",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "BEN": {
+    "country_name": "Benin",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "BMU": {
+    "country_name": "Bermuda",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "BTN": {
+    "country_name": "Bhutan",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "BOL": {
+    "country_name": "Bolivia",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "BES": {
+    "country_name": "Bonaire, Sint Eustatius and Saba",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "BIH": {
+    "country_name": "Bosnia and Herzegovina",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "BWA": {
+    "country_name": "Botswana",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "BVT": {
+    "country_name": "Bouvet Island",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "BRA": {
+    "country_name": "Brazil",
+    "postal_code_regex": "^(?:\\d{5}|\\d{5}\\-\\d{3})$",
+    "address_format_mask": "%S, %N %I\\n%M\\n%C - %P\\n%Z",
+    "keywords": {
+      "street": [
+        "rua"
+      ],
+      "neighborhood": [],
+      "unit": [
+        "apartamento",
+        "flate",
+        "flete"
+      ]
+    }
+  },
+  "IOT": {
+    "country_name": "British Indian Ocean Territory",
+    "postal_code_regex": "^BB\\dD\\ 1ZZ$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "BRN": {
+    "country_name": "Brunei Darussalam",
+    "postal_code_regex": "^[A-Z][A-Z]\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "BGR": {
+    "country_name": "Bulgaria",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "BFA": {
+    "country_name": "Burkina Faso",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "BDI": {
+    "country_name": "Burundi",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "CPV": {
+    "country_name": "Cabo Verde",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "KHM": {
+    "country_name": "Cambodia",
+    "postal_code_regex": "^\\d{6}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "CMR": {
+    "country_name": "Cameroon",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "CAN": {
+    "country_name": "Canada",
+    "postal_code_regex": "^[A-Z]\\d[A-Z]\\ \\d[A-Z]\\d$",
+    "address_format_mask": "%N %S %I\\n%C %P  %Z",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave",
+        "rue"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste",
+        "appartements"
+      ]
+    }
+  },
+  "CYM": {
+    "country_name": "Cayman Islands",
+    "postal_code_regex": "^KY\\d\\-\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "CAF": {
+    "country_name": "Central African Republic",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "TCD": {
+    "country_name": "Chad",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "CHL": {
+    "country_name": "Chile",
+    "postal_code_regex": "^(?:\\d{7}|\\d{3}\\-\\d{4})$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "CHN": {
+    "country_name": "China",
+    "postal_code_regex": "^\\d{6}$",
+    "address_format_mask": "%P %C %S %N %I\\n%Z",
+    "keywords": {
+      "street": [
+        "街",
+        "gaai1",
+        "路",
+        "lou6",
+        "гэдо",
+        "gedo",
+        "гэ",
+        "ge",
+        "хонзы",
+        "honzɨ",
+        "gă̤",
+        "gai1",
+        "街路",
+        "ke-lō͘, koe-lō͘",
+        "jie1",
+        "jiē",
+        "lù",
+        "馬路",
+        "马路",
+        "mǎlù",
+        "jiēlù",
+        "街道",
+        "jiēdào",
+        "1ka",
+        "1ka-lu"
+      ],
+      "neighborhood": [],
+      "unit": [
+        "公寓",
+        "gung1 jyu6",
+        "柏文",
+        "paak3 man4",
+        "雅柏文",
+        "ngaa5 paak3 man4, aa6 paat1 man4, aa6 paat1 man4-2",
+        "kûng-ngi",
+        "kong-gū, kong-gī, kong-ú",
+        "a-phá-tò",
+        "gōngyù",
+        "套間",
+        "套间",
+        "tàojiān",
+        "套房",
+        "tàofáng",
+        "1kon-gniu; 1kon-yu"
+      ]
+    }
+  },
+  "CXR": {
+    "country_name": "Christmas Island",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "CCK": {
+    "country_name": "Cocos (Keeling) Islands",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "COL": {
+    "country_name": "Colombia",
+    "postal_code_regex": "^\\d{6}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "COM": {
+    "country_name": "Comoros",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "COD": {
+    "country_name": "Congo (Democratic Republic)",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "COG": {
+    "country_name": "Congo (Republic)",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "COK": {
+    "country_name": "Cook Islands",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "CRI": {
+    "country_name": "Costa Rica",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "HRV": {
+    "country_name": "Croatia",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "CUB": {
+    "country_name": "Cuba",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "CUW": {
+    "country_name": "Curaçao",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "CYP": {
+    "country_name": "Cyprus",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "CZE": {
+    "country_name": "Czechia",
+    "postal_code_regex": "^\\d{3}\\ \\d{2}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "DNK": {
+    "country_name": "Denmark",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "DJI": {
+    "country_name": "Djibouti",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "DMA": {
+    "country_name": "Dominica",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "DOM": {
+    "country_name": "Dominican Republic",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "ECU": {
+    "country_name": "Ecuador",
+    "postal_code_regex": "^\\d{6}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "EGY": {
+    "country_name": "Egypt",
+    "postal_code_regex": "^\\d{7}$",
+    "address_format_mask": "%N %S %I\\n%C\\n%P\\n%Z",
+    "keywords": {
+      "street": [
+        "شَارِع",
+        "šāriʕ",
+        "زَنَقَة",
+        "zanaqa",
+        "شارع",
+        "شارِع",
+        "زنقة",
+        "zanqa"
+      ],
+      "neighborhood": [],
+      "unit": [
+        "شَقَّة",
+        "šaqqa",
+        "شقة",
+        "šaʔʔa",
+        "šuqqa",
+        "برطمة",
+        "barṭma, parṭma",
+        "برطمان",
+        "barṭamān"
+      ]
+    }
+  },
+  "SLV": {
+    "country_name": "El Salvador",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "GNQ": {
+    "country_name": "Equatorial Guinea",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "ERI": {
+    "country_name": "Eritrea",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "EST": {
+    "country_name": "Estonia",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "SWZ": {
+    "country_name": "Eswatini",
+    "postal_code_regex": "^[A-Z]\\d{3}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "ETH": {
+    "country_name": "Ethiopia",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "FLK": {
+    "country_name": "Falkland Islands",
+    "postal_code_regex": "^FIQQ\\ 1ZZ$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "FRO": {
+    "country_name": "Faroe Islands",
+    "postal_code_regex": "^FO\\-\\d{3}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "FJI": {
+    "country_name": "Fiji",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "FIN": {
+    "country_name": "Finland",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "FRA": {
+    "country_name": "France",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%Z %C",
+    "keywords": {
+      "street": [
+        "rue"
+      ],
+      "neighborhood": [],
+      "unit": [
+        "appartements"
+      ]
+    }
+  },
+  "GUF": {
+    "country_name": "French Guiana",
+    "postal_code_regex": "^973\\d{2}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "PYF": {
+    "country_name": "French Polynesia",
+    "postal_code_regex": "^987\\d{2}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "ATF": {
+    "country_name": "French Southern Territories",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "GAB": {
+    "country_name": "Gabon",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "GMB": {
+    "country_name": "Gambia",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "GEO": {
+    "country_name": "Georgia",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "DEU": {
+    "country_name": "Germany",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%S %N\\n%Z %C",
+    "keywords": {
+      "street": [
+        "straße",
+        "stråßn",
+        "strossn",
+        "schdrooß"
+      ],
+      "neighborhood": [],
+      "unit": [
+        "wohnung",
+        "appartement"
+      ]
+    }
+  },
+  "GHA": {
+    "country_name": "Ghana",
+    "postal_code_regex": "^(?:[A-Z]\\?\\d{3}|[A-Z]\\?\\d{4}|[A-Z]\\?\\d{5})$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "GIB": {
+    "country_name": "Gibraltar",
+    "postal_code_regex": "^GX11\\ 1[A-Z][A-Z]$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "GRC": {
+    "country_name": "Greece",
+    "postal_code_regex": "^\\d{3}\\ \\d{2}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "GRL": {
+    "country_name": "Greenland",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "GRD": {
+    "country_name": "Grenada",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "GLP": {
+    "country_name": "Guadeloupe",
+    "postal_code_regex": "^971\\d{2}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "GUM": {
+    "country_name": "Guam",
+    "postal_code_regex": "^(?:\\d{5}|\\d{5}\\-\\d{4})$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "GTM": {
+    "country_name": "Guatemala",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "GGY": {
+    "country_name": "Guernsey",
+    "postal_code_regex": "^(?:[A-Z][A-Z]\\d\\ \\d[A-Z][A-Z]|[A-Z][A-Z]\\d{2}\\ \\d[A-Z][A-Z])$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "GIN": {
+    "country_name": "Guinea",
+    "postal_code_regex": "^\\d{3}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "GNB": {
+    "country_name": "Guinea-Bissau",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "GUY": {
+    "country_name": "Guyana",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "HTI": {
+    "country_name": "Haiti",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "HMD": {
+    "country_name": "Heard Island and McDonald Islands",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "VAT": {
+    "country_name": "Holy See",
+    "postal_code_regex": "^00120$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "HND": {
+    "country_name": "Honduras",
+    "postal_code_regex": "^(?:[A-Z][A-Z]\\d{4}|\\d{5})$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "HKG": {
+    "country_name": "Hong Kong",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "HUN": {
+    "country_name": "Hungary",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "ISL": {
+    "country_name": "Iceland",
+    "postal_code_regex": "^\\d{3}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "IND": {
+    "country_name": "India",
+    "postal_code_regex": "^(?:\\d{6}|\\d{3}\\ \\d{3})$",
+    "address_format_mask": "%N %S\\n%C %Z\\n%P",
+    "keywords": {
+      "street": [
+        "गली",
+        "galī",
+        "सड़क",
+        "saṛak",
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "अपार्टमेंट",
+        "apārṭamẽṭ",
+        "फ़्लैट",
+        "flaiṭ",
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "IDN": {
+    "country_name": "Indonesia",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "IRN": {
+    "country_name": "Iran",
+    "postal_code_regex": "^\\d{5}\\-\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "IRQ": {
+    "country_name": "Iraq",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "IRL": {
+    "country_name": "Ireland",
+    "postal_code_regex": "^(?:[A-Z]\\d{2}\n\\(Routing\\ key|which\\ is\\ never\\ used\\ on\\ its\\ own\\))$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "IMN": {
+    "country_name": "Isle of Man",
+    "postal_code_regex": "^(?:IM\\d\\ \\d[A-Z][A-Z]|IM\\d{2}\\ \\d[A-Z][A-Z])$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "ISR": {
+    "country_name": "Israel",
+    "postal_code_regex": "^\\d{7}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "IT": {
+    "country_name": "Italy",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "ITA": {
+    "country_name": "Italy",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%S %N\\n%Z %C",
+    "keywords": {
+      "street": [
+        "strada",
+        "via"
+      ],
+      "neighborhood": [],
+      "unit": [
+        "appartamento",
+        "alloggio",
+        "quartierino"
+      ]
+    }
+  },
+  "JAM": {
+    "country_name": "Jamaica",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "JPN": {
+    "country_name": "Japan",
+    "postal_code_regex": "^\\d{3}\\-\\d{4}$",
+    "address_format_mask": "%Z\\n%P %C %S %N %I",
+    "keywords": {
+      "street": [
+        "道",
+        "道路",
+        "通り",
+        "街路",
+        "ストリート"
+      ],
+      "neighborhood": [],
+      "unit": [
+        "アパート",
+        "マンション",
+        "集合住宅",
+        "共同住宅",
+        "長屋"
+      ]
+    }
+  },
+  "JEY": {
+    "country_name": "Jersey",
+    "postal_code_regex": "^(?:JE\\d\\ \\d[A-Z][A-Z]|JE\\d{2}\\ \\d[A-Z][A-Z])$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "JOR": {
+    "country_name": "Jordan",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "KAZ": {
+    "country_name": "Kazakhstan",
+    "postal_code_regex": "^\\d{6}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "KEN": {
+    "country_name": "Kenya",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "KIR": {
+    "country_name": "Kiribati",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "PRK": {
+    "country_name": "North Korea",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "KOR": {
+    "country_name": "South Korea",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%P %C %S %N %I\\n%Z",
+    "keywords": {
+      "street": [
+        "거리",
+        "geori",
+        "가로(街路)",
+        "garo",
+        "길",
+        "gil",
+        "도로(道路)",
+        "doro",
+        "-가(街)",
+        "-ga",
+        "길거리",
+        "gilgeori"
+      ],
+      "neighborhood": [],
+      "unit": [
+        "아파트",
+        "apateu",
+        "맨션",
+        "maensyeon",
+        "아빠트",
+        "appateu"
+      ]
+    }
+  },
+  "KWT": {
+    "country_name": "Kuwait",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "KGZ": {
+    "country_name": "Kyrgyzstan",
+    "postal_code_regex": "^\\d{6}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "LAO": {
+    "country_name": "Laos",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "LVA": {
+    "country_name": "Latvia",
+    "postal_code_regex": "^LV\\-\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "LBN": {
+    "country_name": "Lebanon",
+    "postal_code_regex": "^(?:\\d{4}|\\d{4}\\ \\d{4})$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "LSO": {
+    "country_name": "Lesotho",
+    "postal_code_regex": "^\\d{3}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "LBR": {
+    "country_name": "Liberia",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "LBY": {
+    "country_name": "Libya",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "LIE": {
+    "country_name": "Liechtenstein",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "LTU": {
+    "country_name": "Lithuania",
+    "postal_code_regex": "^LT\\-\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "LUX": {
+    "country_name": "Luxembourg",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "MAC": {
+    "country_name": "Macao",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "MDG": {
+    "country_name": "Madagascar",
+    "postal_code_regex": "^\\d{3}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "MWI": {
+    "country_name": "Malawi",
+    "postal_code_regex": "^\\d{6}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "MYS": {
+    "country_name": "Malaysia",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "MDV": {
+    "country_name": "Maldives",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "MLI": {
+    "country_name": "Mali",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "MTT": {
+    "country_name": "Malta",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "MLT": {
+    "country_name": "Malta",
+    "postal_code_regex": "^[A-Z][A-Z][A-Z]\\ \\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "MHL": {
+    "country_name": "Marshall Islands",
+    "postal_code_regex": "^(?:\\d{5}|\\d{5}\\-\\d{4})$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "MTQ": {
+    "country_name": "Martinique",
+    "postal_code_regex": "^972\\d{2}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "MRT": {
+    "country_name": "Mauritania",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "MUS": {
+    "country_name": "Mauritius",
+    "postal_code_regex": "^(?:\\d{5}|R\\d{4})$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "MYT": {
+    "country_name": "Mayotte",
+    "postal_code_regex": "^976\\d{2}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "MEX": {
+    "country_name": "Mexico",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%S %N %I\\n%M\\n%Z %C, %P",
+    "keywords": {
+      "street": [
+        "calle",
+        "rúa",
+        "acera",
+        "facera"
+      ],
+      "neighborhood": [],
+      "unit": [
+        "apartamento",
+        "departamento",
+        "piso",
+        "vivienda",
+        "depa"
+      ]
+    }
+  },
+  "FSM": {
+    "country_name": "Micronesia",
+    "postal_code_regex": "^(?:\\d{5}|\\d{5}\\-\\d{4})$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "MDA": {
+    "country_name": "Moldova",
+    "postal_code_regex": "^(?:MD\\d{4}|MD\\-\\d{4})$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "MCO": {
+    "country_name": "Monaco",
+    "postal_code_regex": "^980\\d{2}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "MNG": {
+    "country_name": "Mongolia",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "MNE": {
+    "country_name": "Montenegro",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "MSR": {
+    "country_name": "Montserrat",
+    "postal_code_regex": "^MSR\\ \\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "MAR": {
+    "country_name": "Morocco",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "MOZ": {
+    "country_name": "Mozambique",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "MMR": {
+    "country_name": "Myanmar",
+    "postal_code_regex": "^\\d{7}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "NAM": {
+    "country_name": "Namibia",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "NRU": {
+    "country_name": "Nauru",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "NPL": {
+    "country_name": "Nepal",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "NLD": {
+    "country_name": "Netherlands",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%S %N %I\\n%Z %C",
+    "keywords": {
+      "street": [
+        "straat"
+      ],
+      "neighborhood": [],
+      "unit": [
+        "woning",
+        "appartement",
+        "flat"
+      ]
+    }
+  },
+  "NCL": {
+    "country_name": "New Caledonia",
+    "postal_code_regex": "^988\\d{2}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "NZL": {
+    "country_name": "New Zealand",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%C %Z",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "NIC": {
+    "country_name": "Nicaragua",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "NER": {
+    "country_name": "Niger",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "NGA": {
+    "country_name": "Nigeria",
+    "postal_code_regex": "^\\d{6}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "NIU": {
+    "country_name": "Niue",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "NFK": {
+    "country_name": "Norfolk Island",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "MNP": {
+    "country_name": "Northern Mariana Islands",
+    "postal_code_regex": "^(?:\\d{5}|\\d{5}\\-\\d{4})$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "NOR": {
+    "country_name": "Norway",
+    "postal_code_regex": "^(?:\\d{4}|NO\\-\\d{4})$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "OMN": {
+    "country_name": "Oman",
+    "postal_code_regex": "^\\d{3}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "PAK": {
+    "country_name": "Pakistan",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "PLW": {
+    "country_name": "Palau",
+    "postal_code_regex": "^(?:\\d{5}|\\d{5}\\-\\d{4})$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "PSE": {
+    "country_name": "Palestine",
+    "postal_code_regex": "^\\d{3}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "PAN": {
+    "country_name": "Panama",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "PNG": {
+    "country_name": "Papua New Guinea",
+    "postal_code_regex": "^\\d{3}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "PRY": {
+    "country_name": "Paraguay",
+    "postal_code_regex": "^\\d{6}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "PER": {
+    "country_name": "Peru",
+    "postal_code_regex": "^(?:\\d{5}|PE\\ \\d{4})$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "PHL": {
+    "country_name": "Philippines",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "PCN": {
+    "country_name": "Pitcairn",
+    "postal_code_regex": "^PCR\\d\\ 1ZZ$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "POL": {
+    "country_name": "Poland",
+    "postal_code_regex": "^\\d{2}\\-\\d{3}$",
+    "address_format_mask": "ul. %S %N m. %I\\n%Z %C",
+    "keywords": {
+      "street": [
+        "ulica"
+      ],
+      "neighborhood": [],
+      "unit": [
+        "mieszkanie"
+      ]
+    }
+  },
+  "PRT": {
+    "country_name": "Portugal",
+    "postal_code_regex": "^\\d{4}\\-\\d{3}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "PRI": {
+    "country_name": "Puerto Rico",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "QA": {
+    "country_name": "Qatar",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "REU": {
+    "country_name": "Réunion",
+    "postal_code_regex": "^974\\d{2}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "ROU": {
+    "country_name": "Romania",
+    "postal_code_regex": "^\\d{6}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "RUS": {
+    "country_name": "Russia",
+    "postal_code_regex": "^\\d{6}$",
+    "address_format_mask": "%S %N %I\\n%C\\n%P\\n%Z",
+    "keywords": {
+      "street": [
+        "у́лица",
+        "úlica"
+      ],
+      "neighborhood": [],
+      "unit": [
+        "кварти́ра",
+        "kvartíra",
+        "апартаме́нт",
+        "apartamént"
+      ]
+    }
+  },
+  "RWA": {
+    "country_name": "Rwanda",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "BLM": {
+    "country_name": "Saint Barthélemy",
+    "postal_code_regex": "^97133$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "SHN": {
+    "country_name": "Saint Helena",
+    "postal_code_regex": "^[A-Z][A-Z][A-Z][A-Z]\\ 1ZZ$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "KNA": {
+    "country_name": "Saint Kitts and Nevis",
+    "postal_code_regex": "^KN\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "LCA": {
+    "country_name": "Saint Lucia",
+    "postal_code_regex": "^LC\\d{2}\\ \\d{3}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "MAF": {
+    "country_name": "Saint Martin",
+    "postal_code_regex": "^97150$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "SPM": {
+    "country_name": "Saint Pierre and Miquelon",
+    "postal_code_regex": "^97500$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "VCT": {
+    "country_name": "Saint Vincent and the Grenadines",
+    "postal_code_regex": "^VC\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "WSM": {
+    "country_name": "Samoa",
+    "postal_code_regex": "^WS\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "SMR": {
+    "country_name": "San Marino",
+    "postal_code_regex": "^4789\\d$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "STP": {
+    "country_name": "São Tomé and Príncipe",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "SAU": {
+    "country_name": "Saudi Arabia",
+    "postal_code_regex": "^(?:\\d{5}\\-\\d{4}|\\d{5})$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "SEN": {
+    "country_name": "Senegal",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "SRB": {
+    "country_name": "Serbia",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "SYC": {
+    "country_name": "Seychelles",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "SLE": {
+    "country_name": "Sierra Leone",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "SGP": {
+    "country_name": "Singapore",
+    "postal_code_regex": "^\\d{6}$",
+    "address_format_mask": "%N %S %I\\nSINGAPORE %Z",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave",
+        "jalan",
+        "lebuh",
+        "街",
+        "gaai1",
+        "路",
+        "lou6",
+        "гэдо",
+        "gedo",
+        "гэ",
+        "ge",
+        "хонзы",
+        "honzɨ",
+        "gă̤",
+        "gai1",
+        "街路",
+        "ke-lō͘, koe-lō͘",
+        "jie1",
+        "jiē",
+        "lù",
+        "馬路",
+        "马路",
+        "mǎlù",
+        "jiēlù",
+        "街道",
+        "jiēdào",
+        "1ka",
+        "1ka-lu",
+        "வீதி",
+        "vīti",
+        "தெரு",
+        "teru"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste",
+        "rumah pangsa",
+        "pangsapuri",
+        "apartmen",
+        "公寓",
+        "gung1 jyu6",
+        "柏文",
+        "paak3 man4",
+        "雅柏文",
+        "ngaa5 paak3 man4, aa6 paat1 man4, aa6 paat1 man4-2",
+        "kûng-ngi",
+        "kong-gū, kong-gī, kong-ú",
+        "a-phá-tò",
+        "gōngyù",
+        "套間",
+        "套间",
+        "tàojiān",
+        "套房",
+        "tàofáng",
+        "1kon-gniu; 1kon-yu"
+      ]
+    }
+  },
+  "SXM": {
+    "country_name": "Sint Maarten",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "SVK": {
+    "country_name": "Slovakia",
+    "postal_code_regex": "^\\d{3}\\ \\d{2}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "SVN": {
+    "country_name": "Slovenia",
+    "postal_code_regex": "^(?:\\d{4}|SI\\-\\d{4})$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "SLB": {
+    "country_name": "Solomon Islands",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "SOM": {
+    "country_name": "Somalia",
+    "postal_code_regex": "^[A-Z][A-Z]\\ \\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "ZAF": {
+    "country_name": "South Africa",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%C\\n%Z",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave",
+        "straat"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste",
+        "woonstel",
+        "appartement"
+      ]
+    }
+  },
+  "SGS": {
+    "country_name": "South Georgia and South Sandwich Islands",
+    "postal_code_regex": "^SIQQ\\ 1ZZ$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "SSD": {
+    "country_name": "South Sudan",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "ESP": {
+    "country_name": "Spain",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%S %N %I\\n%Z %C",
+    "keywords": {
+      "street": [
+        "calle",
+        "rúa",
+        "acera",
+        "facera"
+      ],
+      "neighborhood": [],
+      "unit": [
+        "apartamento",
+        "departamento",
+        "piso",
+        "vivienda",
+        "depa"
+      ]
+    }
+  },
+  "LKA": {
+    "country_name": "Sri Lanka",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "SDN": {
+    "country_name": "Sudan",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "SUR": {
+    "country_name": "Suriname",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "SJM": {
+    "country_name": "Svalbard and Jan Mayen",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "SWE": {
+    "country_name": "Sweden",
+    "postal_code_regex": "^\\d{3}\\ \\d{2}$",
+    "address_format_mask": "%S %N %I\\n%Z %C",
+    "keywords": {
+      "street": [
+        "gata"
+      ],
+      "neighborhood": [],
+      "unit": [
+        "våning"
+      ]
+    }
+  },
+  "CHE": {
+    "country_name": "Switzerland",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%S %N\\n%Z %C",
+    "keywords": {
+      "street": [
+        "straße",
+        "stråßn",
+        "strossn",
+        "schdrooß",
+        "rue",
+        "strada",
+        "via"
+      ],
+      "neighborhood": [],
+      "unit": [
+        "wohnung",
+        "appartement",
+        "appartements",
+        "appartamento",
+        "alloggio",
+        "quartierino"
+      ]
+    }
+  },
+  "SYR": {
+    "country_name": "Syria",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "TWN": {
+    "country_name": "Taiwan",
+    "postal_code_regex": "^(?:\\d{3}|\\d{3}\\-\\d{2}|\\d{3}\\-\\d{3})$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "TJK": {
+    "country_name": "Tajikistan",
+    "postal_code_regex": "^\\d{6}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "TZA": {
+    "country_name": "Tanzania",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "THA": {
+    "country_name": "Thailand",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "TLS": {
+    "country_name": "Timor-Leste",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "TGO": {
+    "country_name": "Togo",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "TKL": {
+    "country_name": "Tokelau",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "TON": {
+    "country_name": "Tonga",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "TTO": {
+    "country_name": "Trinidad and Tobago",
+    "postal_code_regex": "^\\d{6}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "TUN": {
+    "country_name": "Tunisia",
+    "postal_code_regex": "^\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "TUR": {
+    "country_name": "Turkey",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%M %S No: %N D: %I\\n%P %C",
+    "keywords": {
+      "street": [
+        "sokak",
+        "cadde"
+      ],
+      "neighborhood": [],
+      "unit": [
+        "daire",
+        "apartman dairesi",
+        "apartman"
+      ]
+    }
+  },
+  "TKM": {
+    "country_name": "Turkmenistan",
+    "postal_code_regex": "^\\d{6}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "TCA": {
+    "country_name": "Turks and Caicos Islands",
+    "postal_code_regex": "^TKC[A-Z]\\ 1ZZ$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "TUV": {
+    "country_name": "Tuvalu",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "UGA": {
+    "country_name": "Uganda",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "UKR": {
+    "country_name": "Ukraine",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "ARE": {
+    "country_name": "United Arab Emirates",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "GBR": {
+    "country_name": "United Kingdom",
+    "postal_code_regex": "^[A-Z]\\d\n[A-Z]\\d{2}\n[A-Z][A-Z]\\d\n[A-Z][A-Z]\\d{2}\n[A-Z]\\d[A-Z]\n[A-Z][A-Z]\\d[A-Z]$",
+    "address_format_mask": "%N %S\\n%C\\n%Z",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "UMI": {
+    "country_name": "United States Minor Outlying Islands",
+    "postal_code_regex": "^96898$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "USA": {
+    "country_name": "United States",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S %I\\n%C, %P %Z",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "URY": {
+    "country_name": "Uruguay",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "UZB": {
+    "country_name": "Uzbekistan",
+    "postal_code_regex": "^\\d{6}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "VUT": {
+    "country_name": "Vanuatu",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "VEN": {
+    "country_name": "Venezuela",
+    "postal_code_regex": "^(?:\\d{4}|\\d{4}\\-[A-Z])$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "VNM": {
+    "country_name": "Vietnam",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "VGB": {
+    "country_name": "British Virgin Islands",
+    "postal_code_regex": "^VG\\d{4}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "VIR": {
+    "country_name": "US Virgin Islands",
+    "postal_code_regex": "^(?:\\d{5}|\\d{5}\\-\\d{4})$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "WLF": {
+    "country_name": "Wallis and Futuna",
+    "postal_code_regex": "^986\\d{2}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "ESH": {
+    "country_name": "Western Sahara",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "YEM": {
+    "country_name": "Yemen",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "ZMB": {
+    "country_name": "Zambia",
+    "postal_code_regex": "^\\d{5}$",
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  },
+  "ZWE": {
+    "country_name": "Zimbabwe",
+    "postal_code_regex": null,
+    "address_format_mask": "%N %S\\n%P %C",
+    "keywords": {
+      "street": [
+        "street",
+        "st",
+        "road",
+        "rd",
+        "avenue",
+        "ave"
+      ],
+      "neighborhood": [
+        "neighborhood",
+        "suburb",
+        "district"
+      ],
+      "unit": [
+        "apartment",
+        "apt",
+        "unit",
+        "suite",
+        "ste"
+      ]
+    }
+  }
+}

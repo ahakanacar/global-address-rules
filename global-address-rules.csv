@@ -1,0 +1,256 @@
+﻿iso_alpha3,country_name,postal_code_regex,address_format_mask,street_keywords,neighborhood_keywords,unit_keywords
+AFG,Afghanistan,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+ALA,Åland Islands,^(?:\d{5}|AX\-\d{5})$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+ALB,Albania,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+DZA,Algeria,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+ASM,American Samoa,^(?:\d{5}|\d{5}\-\d{4})$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+AND,Andorra,^AD\d{3}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+AGO,Angola,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+AIA,Anguilla,^[A-Z]I\-2640$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+ATA,Antarctica,^BIQQ\ 1ZZ$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+ATG,Antigua and Barbuda,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+ARG,Argentina,^(?:\d{4}|[A-Z]\d{4}|[A-Z]\d{4}[A-Z][A-Z][A-Z])$,%S %N %I\n%Z %C,calle|rúa|acera|facera,,apartamento|departamento|piso|vivienda|depa
+ARM,Armenia,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+ABW,Aruba,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+AUS,Australia,^\d{4}$,%N %S\n%C %P %Z,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+AUT,Austria,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+AZE,Azerbaijan,^AZ\ \d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+BHS,Bahamas,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+BHR,Bahrain,^(?:\d{3}|\d{4})$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+BGD,Bangladesh,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+BRB,Barbados,^BB\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+BLR,Belarus,^\d{6}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+BEL,Belgium,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+BLZ,Belize,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+BEN,Benin,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+BMU,Bermuda,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+BTN,Bhutan,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+BOL,Bolivia,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+BES,"Bonaire, Sint Eustatius and Saba",,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+BIH,Bosnia and Herzegovina,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+BWA,Botswana,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+BVT,Bouvet Island,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+BRA,Brazil,^(?:\d{5}|\d{5}\-\d{3})$,"%S, %N %I\n%M\n%C - %P\n%Z",rua,,apartamento|flate|flete
+IOT,British Indian Ocean Territory,^BB\dD\ 1ZZ$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+BRN,Brunei Darussalam,^[A-Z][A-Z]\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+BGR,Bulgaria,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+BFA,Burkina Faso,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+BDI,Burundi,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+CPV,Cabo Verde,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+KHM,Cambodia,^\d{6}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+CMR,Cameroon,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+CAN,Canada,^[A-Z]\d[A-Z]\ \d[A-Z]\d$,%N %S %I\n%C %P  %Z,street|st|road|rd|avenue|ave|rue,neighborhood|suburb|district,apartment|apt|unit|suite|ste|appartements
+CYM,Cayman Islands,^KY\d\-\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+CAF,Central African Republic,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+TCD,Chad,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+CHL,Chile,^(?:\d{7}|\d{3}\-\d{4})$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+CHN,China,^\d{6}$,%P %C %S %N %I\n%Z,"街|gaai1|路|lou6|гэдо|gedo|гэ|ge|хонзы|honzɨ|gă̤|gai1|街路|ke-lō͘, koe-lō͘|jie1|jiē|lù|馬路|马路|mǎlù|jiēlù|街道|jiēdào|1ka|1ka-lu",,"公寓|gung1 jyu6|柏文|paak3 man4|雅柏文|ngaa5 paak3 man4, aa6 paat1 man4, aa6 paat1 man4-2|kûng-ngi|kong-gū, kong-gī, kong-ú|a-phá-tò|gōngyù|套間|套间|tàojiān|套房|tàofáng|1kon-gniu; 1kon-yu"
+CXR,Christmas Island,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+CCK,Cocos (Keeling) Islands,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+COL,Colombia,^\d{6}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+COM,Comoros,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+COD,Congo (Democratic Republic),,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+COG,Congo (Republic),,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+COK,Cook Islands,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+CRI,Costa Rica,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+HRV,Croatia,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+CUB,Cuba,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+CUW,Curaçao,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+CYP,Cyprus,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+CZE,Czechia,^\d{3}\ \d{2}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+DNK,Denmark,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+DJI,Djibouti,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+DMA,Dominica,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+DOM,Dominican Republic,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+ECU,Ecuador,^\d{6}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+EGY,Egypt,^\d{7}$,%N %S %I\n%C\n%P\n%Z,شَارِع|šāriʕ|زَنَقَة|zanaqa|شارع|شارِع|زنقة|zanqa,,"شَقَّة|šaqqa|شقة|šaʔʔa|šuqqa|برطمة|barṭma, parṭma|برطمان|barṭamān"
+SLV,El Salvador,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+GNQ,Equatorial Guinea,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+ERI,Eritrea,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+EST,Estonia,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+SWZ,Eswatini,^[A-Z]\d{3}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+ETH,Ethiopia,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+FLK,Falkland Islands,^FIQQ\ 1ZZ$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+FRO,Faroe Islands,^FO\-\d{3}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+FJI,Fiji,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+FIN,Finland,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+FRA,France,^\d{5}$,%N %S\n%Z %C,rue,,appartements
+GUF,French Guiana,^973\d{2}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+PYF,French Polynesia,^987\d{2}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+ATF,French Southern Territories,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+GAB,Gabon,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+GMB,Gambia,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+GEO,Georgia,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+DEU,Germany,^\d{5}$,%S %N\n%Z %C,straße|stråßn|strossn|schdrooß,,wohnung|appartement
+GHA,Ghana,^(?:[A-Z]\?\d{3}|[A-Z]\?\d{4}|[A-Z]\?\d{5})$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+GIB,Gibraltar,^GX11\ 1[A-Z][A-Z]$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+GRC,Greece,^\d{3}\ \d{2}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+GRL,Greenland,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+GRD,Grenada,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+GLP,Guadeloupe,^971\d{2}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+GUM,Guam,^(?:\d{5}|\d{5}\-\d{4})$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+GTM,Guatemala,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+GGY,Guernsey,^(?:[A-Z][A-Z]\d\ \d[A-Z][A-Z]|[A-Z][A-Z]\d{2}\ \d[A-Z][A-Z])$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+GIN,Guinea,^\d{3}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+GNB,Guinea-Bissau,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+GUY,Guyana,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+HTI,Haiti,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+HMD,Heard Island and McDonald Islands,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+VAT,Holy See,^00120$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+HND,Honduras,^(?:[A-Z][A-Z]\d{4}|\d{5})$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+HKG,Hong Kong,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+HUN,Hungary,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+ISL,Iceland,^\d{3}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+IND,India,^(?:\d{6}|\d{3}\ \d{3})$,%N %S\n%C %Z\n%P,गली|galī|सड़क|saṛak|street|st|road|rd|avenue|ave,neighborhood|suburb|district,अपार्टमेंट|apārṭamẽṭ|फ़्लैट|flaiṭ|apartment|apt|unit|suite|ste
+IDN,Indonesia,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+IRN,Iran,^\d{5}\-\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+IRQ,Iraq,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+IRL,Ireland,"^(?:[A-Z]\d{2}
+\(Routing\ key|which\ is\ never\ used\ on\ its\ own\))$",%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+IMN,Isle of Man,^(?:IM\d\ \d[A-Z][A-Z]|IM\d{2}\ \d[A-Z][A-Z])$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+ISR,Israel,^\d{7}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+IT,Italy,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+ITA,Italy,^\d{5}$,%S %N\n%Z %C,strada|via,,appartamento|alloggio|quartierino
+JAM,Jamaica,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+JPN,Japan,^\d{3}\-\d{4}$,%Z\n%P %C %S %N %I,道|道路|通り|街路|ストリート,,アパート|マンション|集合住宅|共同住宅|長屋
+JEY,Jersey,^(?:JE\d\ \d[A-Z][A-Z]|JE\d{2}\ \d[A-Z][A-Z])$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+JOR,Jordan,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+KAZ,Kazakhstan,^\d{6}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+KEN,Kenya,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+KIR,Kiribati,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+PRK,North Korea,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+KOR,South Korea,^\d{5}$,%P %C %S %N %I\n%Z,거리|geori|가로(街路)|garo|길|gil|도로(道路)|doro|-가(街)|-ga|길거리|gilgeori,,아파트|apateu|맨션|maensyeon|아빠트|appateu
+KWT,Kuwait,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+KGZ,Kyrgyzstan,^\d{6}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+LAO,Laos,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+LVA,Latvia,^LV\-\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+LBN,Lebanon,^(?:\d{4}|\d{4}\ \d{4})$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+LSO,Lesotho,^\d{3}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+LBR,Liberia,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+LBY,Libya,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+LIE,Liechtenstein,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+LTU,Lithuania,^LT\-\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+LUX,Luxembourg,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+MAC,Macao,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+MDG,Madagascar,^\d{3}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+MWI,Malawi,^\d{6}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+MYS,Malaysia,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+MDV,Maldives,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+MLI,Mali,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+MTT,Malta,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+MLT,Malta,^[A-Z][A-Z][A-Z]\ \d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+MHL,Marshall Islands,^(?:\d{5}|\d{5}\-\d{4})$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+MTQ,Martinique,^972\d{2}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+MRT,Mauritania,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+MUS,Mauritius,^(?:\d{5}|R\d{4})$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+MYT,Mayotte,^976\d{2}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+MEX,Mexico,^\d{5}$,"%S %N %I\n%M\n%Z %C, %P",calle|rúa|acera|facera,,apartamento|departamento|piso|vivienda|depa
+FSM,Micronesia,^(?:\d{5}|\d{5}\-\d{4})$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+MDA,Moldova,^(?:MD\d{4}|MD\-\d{4})$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+MCO,Monaco,^980\d{2}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+MNG,Mongolia,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+MNE,Montenegro,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+MSR,Montserrat,^MSR\ \d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+MAR,Morocco,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+MOZ,Mozambique,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+MMR,Myanmar,^\d{7}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+NAM,Namibia,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+NRU,Nauru,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+NPL,Nepal,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+NLD,Netherlands,^\d{4}$,%S %N %I\n%Z %C,straat,,woning|appartement|flat
+NCL,New Caledonia,^988\d{2}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+NZL,New Zealand,^\d{4}$,%N %S\n%C %Z,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+NIC,Nicaragua,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+NER,Niger,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+NGA,Nigeria,^\d{6}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+NIU,Niue,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+NFK,Norfolk Island,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+MNP,Northern Mariana Islands,^(?:\d{5}|\d{5}\-\d{4})$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+NOR,Norway,^(?:\d{4}|NO\-\d{4})$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+OMN,Oman,^\d{3}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+PAK,Pakistan,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+PLW,Palau,^(?:\d{5}|\d{5}\-\d{4})$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+PSE,Palestine,^\d{3}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+PAN,Panama,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+PNG,Papua New Guinea,^\d{3}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+PRY,Paraguay,^\d{6}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+PER,Peru,^(?:\d{5}|PE\ \d{4})$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+PHL,Philippines,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+PCN,Pitcairn,^PCR\d\ 1ZZ$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+POL,Poland,^\d{2}\-\d{3}$,ul. %S %N m. %I\n%Z %C,ulica,,mieszkanie
+PRT,Portugal,^\d{4}\-\d{3}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+PRI,Puerto Rico,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+QA,Qatar,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+REU,Réunion,^974\d{2}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+ROU,Romania,^\d{6}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+RUS,Russia,^\d{6}$,%S %N %I\n%C\n%P\n%Z,у́лица|úlica,,кварти́ра|kvartíra|апартаме́нт|apartamént
+RWA,Rwanda,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+BLM,Saint Barthélemy,^97133$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+SHN,Saint Helena,^[A-Z][A-Z][A-Z][A-Z]\ 1ZZ$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+KNA,Saint Kitts and Nevis,^KN\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+LCA,Saint Lucia,^LC\d{2}\ \d{3}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+MAF,Saint Martin,^97150$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+SPM,Saint Pierre and Miquelon,^97500$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+VCT,Saint Vincent and the Grenadines,^VC\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+WSM,Samoa,^WS\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+SMR,San Marino,^4789\d$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+STP,São Tomé and Príncipe,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+SAU,Saudi Arabia,^(?:\d{5}\-\d{4}|\d{5})$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+SEN,Senegal,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+SRB,Serbia,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+SYC,Seychelles,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+SLE,Sierra Leone,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+SGP,Singapore,^\d{6}$,%N %S %I\nSINGAPORE %Z,"street|st|road|rd|avenue|ave|jalan|lebuh|街|gaai1|路|lou6|гэдо|gedo|гэ|ge|хонзы|honzɨ|gă̤|gai1|街路|ke-lō͘, koe-lō͘|jie1|jiē|lù|馬路|马路|mǎlù|jiēlù|街道|jiēdào|1ka|1ka-lu|வீதி|vīti|தெரு|teru",neighborhood|suburb|district,"apartment|apt|unit|suite|ste|rumah pangsa|pangsapuri|apartmen|公寓|gung1 jyu6|柏文|paak3 man4|雅柏文|ngaa5 paak3 man4, aa6 paat1 man4, aa6 paat1 man4-2|kûng-ngi|kong-gū, kong-gī, kong-ú|a-phá-tò|gōngyù|套間|套间|tàojiān|套房|tàofáng|1kon-gniu; 1kon-yu"
+SXM,Sint Maarten,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+SVK,Slovakia,^\d{3}\ \d{2}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+SVN,Slovenia,^(?:\d{4}|SI\-\d{4})$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+SLB,Solomon Islands,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+SOM,Somalia,^[A-Z][A-Z]\ \d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+ZAF,South Africa,^\d{4}$,%N %S\n%C\n%Z,street|st|road|rd|avenue|ave|straat,neighborhood|suburb|district,apartment|apt|unit|suite|ste|woonstel|appartement
+SGS,South Georgia and South Sandwich Islands,^SIQQ\ 1ZZ$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+SSD,South Sudan,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+ESP,Spain,^\d{5}$,%S %N %I\n%Z %C,calle|rúa|acera|facera,,apartamento|departamento|piso|vivienda|depa
+LKA,Sri Lanka,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+SDN,Sudan,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+SUR,Suriname,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+SJM,Svalbard and Jan Mayen,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+SWE,Sweden,^\d{3}\ \d{2}$,%S %N %I\n%Z %C,gata,,våning
+CHE,Switzerland,^\d{4}$,%S %N\n%Z %C,straße|stråßn|strossn|schdrooß|rue|strada|via,,wohnung|appartement|appartements|appartamento|alloggio|quartierino
+SYR,Syria,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+TWN,Taiwan,^(?:\d{3}|\d{3}\-\d{2}|\d{3}\-\d{3})$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+TJK,Tajikistan,^\d{6}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+TZA,Tanzania,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+THA,Thailand,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+TLS,Timor-Leste,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+TGO,Togo,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+TKL,Tokelau,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+TON,Tonga,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+TTO,Trinidad and Tobago,^\d{6}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+TUN,Tunisia,^\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+TUR,Turkey,^\d{5}$,%M %S No: %N D: %I\n%P %C,sokak|cadde,,daire|apartman dairesi|apartman
+TKM,Turkmenistan,^\d{6}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+TCA,Turks and Caicos Islands,^TKC[A-Z]\ 1ZZ$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+TUV,Tuvalu,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+UGA,Uganda,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+UKR,Ukraine,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+ARE,United Arab Emirates,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+GBR,United Kingdom,"^[A-Z]\d
+[A-Z]\d{2}
+[A-Z][A-Z]\d
+[A-Z][A-Z]\d{2}
+[A-Z]\d[A-Z]
+[A-Z][A-Z]\d[A-Z]$",%N %S\n%C\n%Z,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+UMI,United States Minor Outlying Islands,^96898$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+USA,United States,^\d{5}$,"%N %S %I\n%C, %P %Z",street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+URY,Uruguay,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+UZB,Uzbekistan,^\d{6}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+VUT,Vanuatu,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+VEN,Venezuela,^(?:\d{4}|\d{4}\-[A-Z])$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+VNM,Vietnam,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+VGB,British Virgin Islands,^VG\d{4}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+VIR,US Virgin Islands,^(?:\d{5}|\d{5}\-\d{4})$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+WLF,Wallis and Futuna,^986\d{2}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+ESH,Western Sahara,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+YEM,Yemen,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+ZMB,Zambia,^\d{5}$,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
+ZWE,Zimbabwe,,%N %S\n%P %C,street|st|road|rd|avenue|ave,neighborhood|suburb|district,apartment|apt|unit|suite|ste
